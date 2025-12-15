@@ -10,14 +10,13 @@
 ---
 
 ## Table of Contents
-- [Project Overview](#-project-overview)
-- [Key Features](#-key-features)
-- [Technology Stack](#-technology-stack)
-- [Dataset & Model](#-dataset--model)
-- [Installation & Setup](#-installation--setup)
-- [Usage Guide](#-usage-guide)
-- [Results](#-results)
-- [Team Members](#-team-members)
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [Technology Stack](#technology-stack)
+- [Dataset & Model](#dataset--model)
+- [Installation & Setup](#installation--setup)
+- [Usage Guide](#usage-guide)
+- [Results](#results)
 
 ---
 
