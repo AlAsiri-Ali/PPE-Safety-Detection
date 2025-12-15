@@ -1,0 +1,7 @@
+ultralytics
+streamlit
+opencv-python
+Pillow
+numpy
+streamlit-paste-button
+pandas
