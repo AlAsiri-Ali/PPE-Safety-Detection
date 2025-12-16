@@ -8,6 +8,12 @@ import pandas as pd
 import tempfile
 import os  # Added for file cleanup
 
+
+# Privacy Notice:
+# This application processes images and video frames in real time.
+# No images or video streams are permanently stored.
+# Only non-identifiable metadata is logged for reporting purposes.
+
 # Page Setup
 st.set_page_config(page_title="Safety Detection System", layout="wide")
 
@@ -27,6 +33,7 @@ st.markdown(
 )
 
 st.title("👷 Construction Site Safety Detection")
+st.info("By using this application, you consent to real-time image processing. No images or videos are stored.")
 
 # Load Model
 @st.cache_resource
@@ -224,4 +231,5 @@ with tab3:
                 print(f"Error removing temp file: {e}")
 
 st.sidebar.markdown("---")
+
 st.sidebar.text("Safety AI System v1.0")
